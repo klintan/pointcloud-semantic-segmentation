@@ -7,3 +7,8 @@ share
 pip-selfcheck.json
 .Python
 .ipynb_checkpoints/
+*.ply
+*.html
+*.csv
+*.json
+pyntcloud_plot_assets/
